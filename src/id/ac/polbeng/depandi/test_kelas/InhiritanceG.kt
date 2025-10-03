@@ -18,6 +18,6 @@ class Derived(name: String, val lastName: String) :
     }
 }
 fun main(){
-    val turunan = Derived("Depandi", "Enda")
+    val turunan = Derived("Tiara", "ara")
     turunan.size
 }
