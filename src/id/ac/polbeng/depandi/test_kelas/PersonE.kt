@@ -16,7 +16,6 @@ class PersonE {
         println("Age : ${age}")
     }
 }
-
 fun main(){
     val anton = PersonE("Frank", "Lampard")
     anton.cetakInfo()
