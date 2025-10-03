@@ -1,5 +1,4 @@
 package id.ac.polbeng.depandi.test_kelas
-
 interface X {
     fun demoX() {
         println("demoX function")
