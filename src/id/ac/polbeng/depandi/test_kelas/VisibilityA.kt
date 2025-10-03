@@ -11,7 +11,6 @@ private class privateExample {
         doSomething();
     }
 }
-
 //Protected
 open class C() {
     protected val i = 1
@@ -22,7 +21,6 @@ class D : C() {
         return i
     }
 }
-
 //internal
 class internalExample {
     internal val i = 1
@@ -31,7 +29,6 @@ class internalExample {
         println("Internal Access : $i")
     }
 }
-
 //public
 class publicExample {
     val i = 1
